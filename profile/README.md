@@ -1,7 +1,7 @@
 <h1 align="center">Mark Tschopp, PhD&nbsp;✦</h1>
 
 <p align="center">
-  <strong>Scientist · Engineer · Educator · Leader</strong><br>
+  <strong>Scientist · Leader · Educator · Engineer</strong><br>
   DEVCOM Army Research Laboratory
 </p>
 
