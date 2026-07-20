@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Working at the intersection of <strong>materials science</strong>, <strong>solid mechanics</strong>,
+  Expertise spanning <strong>materials science</strong>, <strong>solid mechanics</strong>,
   <strong>machine learning &amp; AI</strong>, and the <strong>science of science</strong> —
   modeling, simulation, and data-driven research from atoms to organizations.
 </p>
