@@ -18,7 +18,7 @@
 - 🌐 **Website:** [marktschopp.github.io](https://marktschopp.github.io)
 - 📄 **CV template:** [academic-cv](https://github.com/mrkllntschpp/academic-cv) — the LaTeX source for my CV
 - 💻 **Code &amp; tutorials:** [@mrkllntschpp](https://github.com/mrkllntschpp) — LAMMPS tutorials (480+ ★), Machine Learning for Everyone, and more
-- 📚 **Research:** [Google Scholar](https://scholar.google.com/citations?user=dg2m2WsAAAAJ) · [ORCID](https://orcid.org/0000-0001-8471-5035)
+- 📚 **Research:** [Google Scholar](https://scholar.google.com/citations?user=TeimGbgAAAAJ) · [ORCID](https://orcid.org/0000-0001-8471-5035)
 - 💼 **LinkedIn:** [mark-tschopp](https://www.linkedin.com/in/mark-tschopp/)
 
 ### ✦ By the numbers
