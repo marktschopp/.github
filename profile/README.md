@@ -23,6 +23,6 @@
 
 ### ✦ By the numbers
 
-`100+` peer-reviewed publications &nbsp;·&nbsp; `9,000+` citations &nbsp;·&nbsp; `h-index 51` &nbsp;·&nbsp; `250+` talks &nbsp;·&nbsp; `3,300+` trained in AI/ML
+`100+` peer-reviewed publications &nbsp;·&nbsp; `9,000+` citations &nbsp;·&nbsp; `h-index 50` &nbsp;·&nbsp; `250+` talks &nbsp;·&nbsp; `3,300+` trained in AI/ML
 
 <p align="center"><em>May the Force be with you.</em></p>
